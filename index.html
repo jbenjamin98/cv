@@ -3,94 +3,67 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Jacob Benjamin's Personal Site</title>
+  <title>Jacob Benjamin</title>
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" href="favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Sacramento&display=swap" rel="stylesheet">
 </head>
 
 <body>
-  <table cellspacing="20">
-    <tr>
-      <td>
-        <img src="images/jacob-profile-pic.png" alt="jacob profile picture">
-      </td>
-      <td>
-        <h1>Jacob Benjamin</h1>
-        <p><i>Software Developer and Graduate Student</i></p>
-        <p>I am currently a software developer and consultant for
-          <a href="https://www.collabralink.com/">CollabraLink</a>.
-          I am also pursuing a M.S. of IT: Systems Engineering at UMGC.</p>
-      </td>
-    </tr>
-  </table>
-  <hr>
-  <h3>Work Experience</h3>
-  <table cellspacing="10">
-    <thead>
-      <tr>
-        <th>Position</th>
-        <th>Dates</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Developer at CollabraLink</td>
-        <td>July 2019 - Present</td>
-      </tr>
-      <tr>
-        <td>Building Manager at Virginia Tech</td>
-        <td>Dec 2016 - May 2019</td>
-      </tr>
-    </tbody>
-  </table>
-  <hr>
-  <h3>Education</h3>
-  <ul>
-    <li><a href="https://www.umgc.edu/">University of Maryland Global Campus</a> - M.S. IT: Systems Engineering</li>
-    <li><a href="https://vt.edu/">Virginia Polytechnic State University</a> - B.S. Psychology</li>
-    <li><a href="https://lfcc.edu/">Lord Fairfax Community College</a> - Dual Enrollment</li>
-  </ul>
-  <hr>
-  <h3>Skills</h3>
-  <table cellspacing="10">
-    <tr>
-      <td>Appian</td>
-      <td>★★★★☆</td>
-      <td>SQL</td>
-      <td>★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>G-Suite Applications</td>
-      <td>★★★★☆</td>
-      <td>Microsoft Office Suite</td>
-      <td>★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Agile</td>
-      <td>★★★☆☆</td>
-      <td>Scrum</td>
-      <td>★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Software Development Life Cycle</td>
-      <td>★★★☆☆</td>
-      <td>Process Modeling</td>
-      <td>★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>HTML5</td>
-      <td>★★☆☆☆</td>
-      <td>CSS</td>
-      <td>★★☆☆☆</td>
-    </tr>
-    <tr>
-      <td>UiPath RPA</td>
-      <td>★★☆☆☆</td>
-      <td>Splunk</td>
-      <td>★★☆☆☆</td>
-    </tr>
-  </table>
-  <hr>
-  <h3><a href="contact-me.html">Contact Me</a></h3>
+  <div class="top-container">
+    <img class="top-cloud" src="images/cloud.png" alt="cloud">
+    <h1>I'm Jacob.</h1>
+    <h2>a software developer.</h2>
+    <img class="bottom-cloud" src="images/cloud.png" alt="cloud">
+    <img src="images/mountain.png" alt="mountain">
+  </div>
+  <div class="middle-container">
+    <div class="profile">
+      <img src="images/jacob-profile-pic.png" alt="Jacob's Profile Picture">
+      <h2>Hello.</h2>
+      <p class="intro">I'm am currently an Appian developer at CollabraLink, and a M.S. IT: Systems Engineering student at UMGC.</p>
+    </div>
+    <hr>
+    <div class="experience">
+      <h2>My Experience.</h2>
+      <div class="experience-row">
+        <img class="experience-logo" src="images/CollabraLink-logo.png" alt="CollabraLink Logo">
+        <h3>CollabraLink</h3>
+        <ul>
+          <li>Designed and implemented BPM based solutions using Appian low-code software</li>
+          <li>Performed in analysis, design, and new development of BPM based applications in a fast-paced environment</li>
+          <li>Translated business process software requirement specifications into Appian process model prototypes and solutions</li>
+          <li>Researched key systems and wrote business proposals in order to enhance internal enterprise frameworks</li>
+          <li>Coordinated closely with other programmers to verify proper implementation of program and system specifications</li>
+          <li>Conducted data migration, loading, and conversion between data stores as needed</li>
+          <li>Developed enterprise framework applications for quicker implantation of common application features</li>
+          <li>Presented UX designs and solutions to senior staff, promoting user-centric design decisions</li>
+        </ul>
+      </div>
+      <div class="experience-row">
+        <img class="experience-logo" src="images/VT-logo.png" alt="Virginia Tech Logo">
+        <h3>Virginia Tech</h3>
+        <ul>
+          <li>Led teams of 3+ in providing customer support in facility operations, A/V production, and information services roles</li>
+          <li>Documented and reported day-to-day facility operations</li>
+          <li>Secured facilities in the event of campus-wide emergencies</li>
+        </ul>
+      </div>
+    </div>
+    <hr>
+    <div class="contact-me">
+      <h2>Get In Touch</h2>
+      <h3>Let me know what you think.</h3>
+      <p class="contact-message">Please contact me if you are interested in knowing more about my background. I am continuously adding content to this website.</p>
+      <a class="button-contact-me" href="mailto:jacobbrianbenjamin@gmail.com">CONTACT ME</a>
+    </div>
+  </div>
+  <div class="bottom-container">
+    <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
+    <a class="footer-link" href="mailto:jacobbrianbenjamin@gmail.com">jacobbrianbenjamin@gmail.com</a>
+    <a class="footer-link" href="tel:5402703664">(540) 270-3664</a>
+    <p class="copyright">© 2020 Jacob Benjamin.</p>
+  </div>
 </body>
 
 </html>
