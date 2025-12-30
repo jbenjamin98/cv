@@ -1,0 +1,231 @@
+{
+  "personal_information": {
+    "name": "Jacob Benjamin",
+    "address": "6333 Hudson Circle, Marshall, VA 20115",
+    "phone": "(540) 270-3664",
+    "email": "jacobbrianbenjamin@gmail.com"
+  },
+  "summary": {
+    "title": "Technical Program Manager & Low-Code Expert",
+    "certifications_highlight": [
+      "PMP",
+      "Active Secret Clearance",
+      "Appian Certified Lead Developer",
+      "Security+"
+    ],
+    "overview": "Combines strategic leadership of a $70M program with hands-on expertise in Appian, Salesforce, OneStream, Docusign, and Agile methodologies. Specialized in leading digital transformation efforts that modernized legacy DoD systems, resulting in an annual $142k labor cost reduction, a ~$2M profit increase, and significant NPS improvements."
+  },
+  "areas_of_expertise": [
+    "Technical Program Management",
+    "Agile Software Development Lifecycle (SDLC)",
+    "Digital Modernization & Transformation",
+    "Enterprise Low-Code/No-Code Strategy",
+    "Solution Architecture",
+    "Strategic Roadmap Planning",
+    "Process Reengineering",
+    "Risk & Conflict Management",
+    "Organizational Change Management (OCM)",
+    "Requirements Engineering"
+  ],
+  "work_experience": [
+    {
+      "company": "MANTECH (formerly Definitive Logic)",
+      "location": "Remote",
+      "roles": [
+        {
+          "title": "Program Manager",
+          "dates": "Oct 2022 - Present",
+          "projects": [
+            {
+              "name": "Army – Resource Managers Workspace (RMW) & Installation Resource Integration Tool (IRIT)",
+              "responsibilities": [
+                "Leads a team of 20+ across requirements, development, testing, training, and organizational change management (OCM) workstreams in successfully executing the $70M Army RMW and Army G9 IRIT OneStream projects.",
+                "Guides government stakeholders in the strategic deployment of a OneStream Planning, Programming, Budgeting, Execution (PPBE) system to the Army Budget Office (ABO), all 26 commands, and 10,000+ users.",
+                "Proactively works with Army stakeholders to identify further opportunities and requirements enabling the future divestiture of several legacy systems.",
+                "Coaches the Agile team in delivery best practices including Scrum, requirements elicitation, analysis/design, and testing.",
+                "Rescued a failing project following a failed Initial Operating Capabilities (IOC) go-live.",
+                "Overhauled delivery processes and established transparent client communication, resulting in a Net Promoter Score (NPS) increase from Detractor to Promoter.",
+                "Navigated federally mandated budget reductions, minimizing impact to milestones and personnel, and increased profitability by +$2M."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Lead Software Engineer",
+          "dates": "Oct 2022 – Dec 2024",
+          "projects": [
+            {
+              "name": "National Defense University – NDU Connect/ Academic Business Support",
+              "responsibilities": [
+                "Served as Deputy Project Manager, Scrum Master, Business Analyst, and Docusign Developer.",
+                "Configured Salesforce and Docusign functionality, resulting in a savings of 1,450 hours annually, a ~$142,100 labor cost reduction, and an estimated 11% decrease in data entry errors via full digitalization.",
+                "Contributed to presentation on “Educating Tomorrow’s Defense Leaders by Enabling AI-readiness through DoD University Data Standardization” at the 2024 Army University Learning Symposium.",
+                "Collaborated with stakeholders to identify goals and communicate progress/risks via Power BI dashboards.",
+                "Managed Agile documentation efforts via Azure DevOps Boards, Teams, and SharePoint."
+              ]
+            },
+            {
+              "name": "Air Force Office of Special Investigations – OSI Records, Investigations & Operations Network",
+              "responsibilities": [
+                "Utilized prior experience to inform technical design decisions regarding enforcement case management systems in Appian.",
+                "Implemented best practices to reduce system load times by ~30% for high-volume operations.",
+                "Improved usability and maintainability by enforcing documentation standards.",
+                "Redesigned all user interfaces to better align with Section 508 and WCAG 2.0 standards."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Nuvitek",
+      "location": "Remote",
+      "roles": [
+        {
+          "title": "Appian Developer",
+          "dates": "Aug 2021 - Oct 2022",
+          "projects": [
+            {
+              "name": "National Oceanic and Atmospheric Administration – Enforcement Case Management System",
+              "responsibilities": [
+                "Built a joint enforcement case management system in Appian for NOAA’s Office of Law Enforcement and General Counsel Section.",
+                "Led UI/UX endeavors, including the creation of a UX Design and Style guide.",
+                "Designed foundational functionalities, including user management and task management.",
+                "Developed process to produce 60+ dynamically generated PDF and Microsoft Word documents via XML templates.",
+                "Implemented Record Type functionalities to optimize speed and efficiency."
+              ]
+            },
+            {
+              "name": "Department of Labor – Trade Adjustment Assistance",
+              "responsibilities": [
+                "Performed O&M for the DOL Trade Adjustment Assistance application by migrating historical data and increasing system performance in Appian.",
+                "Reviewed system against requirements to identify gaps and usability issues.",
+                "Facilitated backlog grooming sessions and coached the customer on prioritizing new capabilities.",
+                "Quickly addressed production defects and corrected in-flight processes."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "REI Systems",
+      "location": "Remote",
+      "roles": [
+        {
+          "title": "Technology Consultant",
+          "dates": "Aug 2020 - Aug 2021",
+          "projects": [
+            {
+              "name": "Office of the Comptroller of the Currency – Central Application Tracking",
+              "responsibilities": [
+                "Led teams of 3+ in developing and designing viable Appian solutions for design challenges and contract proposal demos in under one month.",
+                "Developed enterprise framework applications for rapid implementation of common application features.",
+                "Implemented integrations including Google Cloud Document AI, Google Cloud Vision API, Google Cloud Natural Language API, Google Maps API, Google Chart API, SharePoint, and Salesforce.",
+                "Trained junior staff in software engineering best practices and consulting approaches.",
+                "Served as a database developer on 3 concurrent projects."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Groundswell (formerly CollabraLink)",
+      "location": "Tysons Corner, VA",
+      "roles": [
+        {
+          "title": "Consultant - Appian Developer",
+          "dates": "Jul 2019 - Aug 2020",
+          "projects": [
+            {
+              "name": "Centers for Medicare & Medicaid Services – Acquisition Lifecycle Modernization",
+              "responsibilities": [
+                "Designed and implemented BPM-based solutions using Appian low-code software.",
+                "Performed analysis, design, and development of BPM-based applications in an Agile environment.",
+                "Translated business process system requirement specifications into process model prototypes and solutions.",
+                "Researched key systems and wrote business proposals to enhance internal enterprise frameworks.",
+                "Presented UX designs and solutions to senior staff, promoting user-centric design decisions."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Maryland Global Campus",
+      "location": "Adelphi, MD",
+      "degree": "Master of Science (M.S.) IT: Systems Engineering",
+      "date": "Aug 2022"
+    },
+    {
+      "institution": "Virginia Polytechnic Institute and State University",
+      "location": "Blacksburg, VA",
+      "degree": "Bachelor of Science (B.S.) Psychology",
+      "date": "Jul 2019"
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "FIRST Chesapeake & FIRST Robotics Team 1731",
+      "location": "Warrenton, VA",
+      "role": "Volunteer Coordinator & Mentor",
+      "dates": "Nov 2022 – Mar 2025",
+      "activities": [
+        "Lead presenter at the FIRST Chesapeake GEARED UP: Mentors Conference 2024 on adapting and implementing Agile Scrum methodologies for student-led teams.",
+        "Assisted full-time staff with recruiting volunteers and assigning volunteer roles for three-day competitions.",
+        "Facilitated age-appropriate education on cybersecurity for students via card games.",
+        "Mentored team of 15+ high school students in Agile Scrum methodologies, systems engineering, design principles, and software development.",
+        "Supported team in achieving 2023 and 2024 Chesapeake District Championship wins, Innovation in Control Award, Excellence in Engineering Award, and 4 Autonomous Awards."
+      ]
+    }
+  ],
+  "certifications": [
+    "Secret Clearance (current)",
+    "Project Management Professional (PMP)",
+    "Appian Certified Lead Developer",
+    "CompTIA Security+",
+    "Lean Six Sigma Black Belt",
+    "Certified Scrum Master (CSM)",
+    "Professional Scrum Master (PSM)",
+    "Salesforce Certified Administrator",
+    "Docusign IAM for Customer Experience",
+    "Microsoft Azure Fundamentals",
+    "FinOps Certified Practitioner",
+    "MIT xPRO Driving Innovation with Generative AI",
+    "Certified Web Application Security Professional (CWASP)",
+    "Splunk Core Certified Power User (2022)",
+    "UiPath Certified Advanced RPA Developer (2021)"
+  ],
+  "skills": {
+    "platforms_and_applications": [
+      "Appian",
+      "Salesforce",
+      "OneStream",
+      "Microsoft Power BI",
+      "Docusign"
+    ],
+    "databases": [
+      "MySQL",
+      "MariaDB",
+      "Oracle Database",
+      "Microsoft SQL Server"
+    ],
+    "project_management_tools": [
+      "Jira",
+      "Azure DevOps Boards",
+      "Asana",
+      "IBM Jazz",
+      "Microsoft Project",
+      "Smartsheet",
+      "Visio"
+    ]
+  },
+  "awards_and_affiliations": [
+    "Eagle Scout, Boy Scouts of America",
+    "Member, Alpha Phi Omega (National Service Fraternity)",
+    "Member, Phi Theta Kappa Honor Society"
+  ]
+}
